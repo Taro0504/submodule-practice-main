@@ -1,0 +1,3 @@
+[submodule "subproject"]
+	path = subproject
+	url = https://github.com/Taro0504/submodule-practice-sub.git
